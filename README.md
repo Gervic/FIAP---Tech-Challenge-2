@@ -7,7 +7,7 @@ Este repositório reúne diferentes abordagens de modelagem para previsão do Ib
 O objetivo é analisar dados históricos do índice e avaliar modelos de previsão em diferentes níveis de complexidade.
 
 📂 Estrutura do Projeto
-.
+
 ├── arima_prophet/                # Modelos ARIMA e Prophet
 ├── storytelling/                 # Documentação e relatórios
 ├── naive.ipynb                   # Notebook com modelo Naive
@@ -83,7 +83,7 @@ This repository contains different approaches for forecasting the Ibovespa index
 The goal is to analyze historical data and evaluate forecasting models with different levels of complexity.
 
 📂 Project Structure
-.
+
 ├── arima_prophet/                # ARIMA and Prophet models
 ├── storytelling/                 # Documentation and reports
 ├── naive.ipynb                   # Notebook with Naive model
